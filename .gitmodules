@@ -25,4 +25,4 @@
 	url = https://github.com/obsproject/obs-studio.git
 [submodule "third-party/nvidia-maxine-afx-sdk"]
 	path = third-party/nvidia-maxine-afx-sdk
-	url = https://github.com/NVIDIA/MAXINE-AFX-SDK.git
+	url = https://github.com/ajunlonglive/MAXINE-AFX-SDK.git

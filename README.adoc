@@ -20,8 +20,8 @@ Licensed under link:https://github.com/Xaymar/obs-StreamFX/blob/root/LICENSE[GPL
 |link:https://github.com/nlohmann/json/blob/develop/LICENSE.MIT[MIT License]
 |link:https://github.com/nlohmann/json/graphs/contributors?type=a[nlohmann, ChrisKtiching, nickaein, and more]
 
-|link:https://github.com/NVIDIA/MAXINE-AFX-SDK[NVIDIA Maxine Audio Effects SDK]
-|link:https://github.com/NVIDIA/MAXINE-AFX-SDK/blob/master/LICENSE[MIT License]
+|link:https://github.com/ajunlonglive/MAXINE-AFX-SDK[NVIDIA Maxine Audio Effects SDK]
+|link:https://github.com/ajunlonglive/MAXINE-AFX-SDK/blob/master/LICENSE[MIT License]
 |link:https://nvidia.com/[NVIDIA Corporation]
 
 |link:https://github.com/NVIDIA/MAXINE-AR-SDK[NVIDIA Maxine Augmented Reality SDK]
