@@ -16,7 +16,7 @@
 	url = https://github.com/Xaymar/msvc-redist-helper.git
 [submodule "third-party/nvidia-maxine-ar-sdk"]
 	path = third-party/nvidia-maxine-ar-sdk
-	url = https://github.com/NVIDIA/MAXINE-AR-SDK.git
+	url = https://github.com/kriskoin/MAXINE-AR-SDK.git
 [submodule "third-party/nvidia-maxine-vfx-sdk"]
 	path = third-party/nvidia-maxine-vfx-sdk
 	url = https://github.com/NVIDIA/MAXINE-VFX-SDK.git
