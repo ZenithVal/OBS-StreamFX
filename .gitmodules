@@ -19,7 +19,7 @@
 	url = https://github.com/kriskoin/MAXINE-AR-SDK.git
 [submodule "third-party/nvidia-maxine-vfx-sdk"]
 	path = third-party/nvidia-maxine-vfx-sdk
-	url = https://github.com/NVIDIA/MAXINE-VFX-SDK.git
+	url = https://github.com/insad-video/MAXINE-VFX-SDK.git
 [submodule "third-party/obs-studio"]
 	path = third-party/obs-studio
 	url = https://github.com/obsproject/obs-studio.git
